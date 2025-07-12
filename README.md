@@ -58,8 +58,8 @@ This project provides real-time and historical data-driven stock trend forecasti
 **
 🛠️ Tech Stack:**
 
-**- Programming Languages: Python
-- Libraries: NumPy, Pandas, TensorFlow, Scikit-learn, Streamlit, Matplotlib, Seaborn, Prophet, yfinance**
+- Programming Languages: Python
+- Libraries: NumPy, Pandas, TensorFlow, Scikit-learn, Streamlit, Matplotlib, Seaborn, Prophet, yfinance
 
 ---
 
