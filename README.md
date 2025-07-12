@@ -92,7 +92,19 @@ streamlit run streamlit_app/app.py
 
 
 **📂 Project Directory Structure:**
-(Include the structure provided above here again for clarity.)
+real-time-stock-forecasting/
+
+├── 📂notebooks/
+│   ├── Full_model_code.ipynb        # Full model exploration and visualization of data
+│   └── lstm_model.ipynb             # Implementation of LSTM forecasting model
+├── 📂src/
+│   └── lstm_forecast.ipynb             # LSTM model scripts
+├── 📂streamlit_app/
+│   ├── app.py                       # Streamlit application combining both LSTM and Prophet
+│   └── app-checkpoint.py            # Alternative/backup Streamlit app
+├── .gitignore                       # Specifies files to ignore in git commits
+├── README.md                        # Comprehensive project documentation
+└── requirements.txt                 # Project dependencies
 
 **📊 Application Preview:**
 - Interactive sidebar for selecting ticker symbols and forecast parameters.
