@@ -16,7 +16,8 @@
 - ⚡ **Real-time data retrieval** via Yahoo Finance API
 - 🎛️ **Interactive forecasting** with Streamlit sidebar
 - 🤖 **LSTM Neural Networks** for advanced predictions
-- 📊 **ARIMA & Prophet Models** for robust time-series analysis
+- 📊 **ARIMA ** for robust time-series analysis
+- 📊 **XGBoost Model** for robust time-series analysis
 
 ---
 
@@ -96,24 +97,6 @@ bash
 Copy
 Edit
 streamlit run streamlit_app/app.py
-
-
-##📂 Project Directory Structure:**
-
-real-time-stock-forecasting/
-
-real-time-stock-forecasting/
-├── notebooks/ # Jupyter notebooks for model exploration
-│ ├── Full_model_code.ipynb # Full model exploration and visualization of data
-│ └── lstm_model.ipynb # Implementation of LSTM forecasting model
-├── src/
-│ └── lstm_forecast.ipynb
-├── streamlit_app/
-│ ├── app.py # Streamlit application combining both LSTM
-│ └── app-checkpoint.py # Alternative/backup Streamlit app
-├── .gitignore # Specifies files to ignore in git commits
-├── README.md # Comprehensive project documentation
-└── requirements.txt # Project dependencies
 
              
 
