@@ -1,0 +1,9 @@
+copy folder path
+
+python -m venv myenv
+myenv\Scripts\activate
+streamlit run app.py
+streamlit run app-checkpoint.py
+
+
+
