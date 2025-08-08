@@ -105,6 +105,15 @@ streamlit run streamlit_app/app.py
 - Real-time and historical data visualization.
 - Comparative forecasting using LSTM & Prophet models.
 
+- ![WhatsApp Image 2025-08-03 at 3 27 30 PM](https://github.com/user-attachments/assets/ca951c4c-3ec0-48e8-bafb-3146c246cbb3)
+![WhatsApp Image 2025-08-03 at 3 27 07 PM](https://github.com/user-attachments/assets/520a0c5b-341c-41da-a700-209f9f7c33fb)
+![WhatsApp Image 2025-08-03 at 3 26 47 PM](https://github.com/user-attachments/assets/a15abaf3-c981-4cfa-8604-7b62f22245a9)
+![WhatsApp Image 2025-08-03 at 3 26 12 PM](https://github.com/user-attachments/assets/85273046-9fe1-4f27-8f22-3ee221b17c8f)
+![WhatsApp Image 2025-08-03 at 3 26 01 PM](https://github.com/user-attachments/assets/266dcf69-1e0a-4881-b5a9-fbb166becec7)
+![WhatsApp Image 2025-08-03 at 3 25 50 PM](https://github.com/user-attachments/assets/af20c645-5b7b-4029-aba1-54291214f42c)
+![WhatsApp Image 2025-08-03 at 3 25 32 PM](https://github.com/user-attachments/assets/346312d7-51ed-453e-bfa8-ca7ebe3db443)
+
+
 🎮 App Preview
 
 🏷️ Sidebar: Choose ticker symbols & forecast parameters
